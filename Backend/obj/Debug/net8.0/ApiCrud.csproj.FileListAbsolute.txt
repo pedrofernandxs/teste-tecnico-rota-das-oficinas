@@ -1,0 +1,168 @@
+C:\ApiCrud\bin\Debug\net8.0\appsettings.Development.json
+C:\ApiCrud\bin\Debug\net8.0\appsettings.json
+C:\ApiCrud\bin\Debug\net8.0\ApiCrud.staticwebassets.endpoints.json
+C:\ApiCrud\bin\Debug\net8.0\ApiCrud.exe
+C:\ApiCrud\bin\Debug\net8.0\ApiCrud.deps.json
+C:\ApiCrud\bin\Debug\net8.0\ApiCrud.runtimeconfig.json
+C:\ApiCrud\bin\Debug\net8.0\ApiCrud.dll
+C:\ApiCrud\bin\Debug\net8.0\ApiCrud.pdb
+C:\ApiCrud\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ApiCrud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.csproj.AssemblyReference.cache
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.AssemblyInfoInputs.cache
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.AssemblyInfo.cs
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.csproj.CoreCompileInputs.cache
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\ApiCrud\obj\Debug\net8.0\scopedcss\bundle\ApiCrud.styles.css
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets.build.json
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets.development.json
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiCrud.props
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiCrud.props
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiCrud.props
+C:\ApiCrud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.csproj.Up2Date
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.dll
+C:\ApiCrud\obj\Debug\net8.0\refint\ApiCrud.dll
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.pdb
+C:\ApiCrud\obj\Debug\net8.0\ApiCrud.genruntimeconfig.cache
+C:\ApiCrud\obj\Debug\net8.0\ref\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\appsettings.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\ApiCrud.staticwebassets.endpoints.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\ApiCrud.exe
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\ApiCrud.deps.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\ApiCrud.runtimeconfig.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\ApiCrud.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.csproj.AssemblyReference.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.AssemblyInfoInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.AssemblyInfo.cs
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.csproj.CoreCompileInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\scopedcss\bundle\ApiCrud.styles.css
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.csproj.Up2Date
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\refint\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ApiCrud.genruntimeconfig.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\DesafioTec\obj\Debug\net8.0\ref\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\ApiCrud.staticwebassets.endpoints.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\ApiCrud.exe
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\ApiCrud.deps.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\ApiCrud.runtimeconfig.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\ApiCrud.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.csproj.AssemblyReference.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.AssemblyInfoInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.AssemblyInfo.cs
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.csproj.CoreCompileInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\scopedcss\bundle\ApiCrud.styles.css
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.csproj.Up2Date
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\refint\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ApiCrud.genruntimeconfig.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\Backend\obj\Debug\net8.0\ref\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\ApiCrud.staticwebassets.endpoints.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\ApiCrud.exe
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\ApiCrud.deps.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\ApiCrud.runtimeconfig.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\ApiCrud.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.csproj.AssemblyReference.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.AssemblyInfoInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.AssemblyInfo.cs
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.csproj.CoreCompileInputs.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\scopedcss\bundle\ApiCrud.styles.css
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets\msbuild.ApiCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiCrud.props
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.csproj.Up2Date
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\refint\ApiCrud.dll
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.pdb
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ApiCrud.genruntimeconfig.cache
+C:\Users\pedri\OneDrive\Área de Trabalho\RO.TesteTécnico\Backend\obj\Debug\net8.0\ref\ApiCrud.dll
