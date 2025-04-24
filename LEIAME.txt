@@ -1,0 +1,21 @@
+Observações Importantes:
+
+A API está completa com todas as rotas (GET, POST, PUT, DELETE). Você pode testá-la via Postman, Insomnia ou diretamente pelo Swagger.
+
+O Frontend implementa a autenticação de usuário. Após o login com credenciais válidas, o usuário é redirecionado para /home onde pode consultar dados via GET.
+
+Usuário e senha estão definidos no backend no arquivo TokenService.cs.
+O projeto foi desenvolvido em uma estrutura local diferente do template original enviado no desafio, mas todos os requisitos centrais foram abordados.
+
+Gostaria de agradecer a oportunidade de participar do desafio. Foi muito desafiador, enriquecedor e eu adoraria fazer parte da equipe como desenvolvedor web.
+
+Compartilhei a solução do backend no LinkedIn:
+👉 Publicação no LinkedIn -
+https://www.linkedin.com/posts/pedrofernandxs_dotnet-csharp-backend-activity-7320518629303762945-AQMe/
+
+O desafio é bastante completo e pode ser que algum detalhe tenha passado despercebido — tudo foi feito com muito cuidado e atenção.
+
+Este desafio foi uma excelente oportunidade para aplicar conhecimentos técnicos em um cenário realista. Agradeço imensamente a chance e fico à disposição para conversar mais sobre minha solução ou sobre futuras oportunidades com a Rota das Oficinas.
+
+Atenciosamente,
+Pedro Fernandes
